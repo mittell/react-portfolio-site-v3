@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import useMediaQuery from './hooks/useMediaQuery';
 
 import Navbar from './components/Navbar';
+import DotGroup from './components/DotGroup';
 
 function App() {
 	const [selectedPage, setSelectedPage] = useState('home');
