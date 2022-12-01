@@ -4,7 +4,7 @@ A Portfolio Site built with React.
 
 ## Demo
 
-[Link]()
+[Link](https://bright-kashata-ec7387.netlify.app/)
 
 ## Getting Started
 
@@ -34,6 +34,5 @@ Feel free to find and contact me at the following:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CMittell)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://techhub.social/@cmittell)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-mittell/)
-
 
 </div>
